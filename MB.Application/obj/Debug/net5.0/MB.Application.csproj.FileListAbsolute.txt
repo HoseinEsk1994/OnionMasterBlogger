@@ -1,0 +1,38 @@
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.deps.json
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.dll
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.pdb
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.Contracts.dll
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Domain.dll
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Infrastructure.EFcore.dll
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.Contracts.pdb
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Infrastructure.EFcore.pdb
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Domain.pdb
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.AssemblyReference.cache
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.AssemblyInfoInputs.cache
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.AssemblyInfo.cs
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.CoreCompileInputs.cache
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.CopyComplete
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.dll
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\refint\MB.Application.dll
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.pdb
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\ref\MB.Application.dll
+H:\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.deps.json
+H:\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.dll
+H:\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\ref\MB.Application.dll
+H:\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.pdb
+H:\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.Contracts.dll
+H:\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Domain.dll
+H:\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Infrastructure.EFcore.dll
+H:\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.Contracts.pdb
+H:\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Infrastructure.EFcore.pdb
+H:\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Domain.pdb
+H:\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.AssemblyReference.cache
+H:\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.AssemblyInfoInputs.cache
+H:\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.AssemblyInfo.cs
+H:\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.CoreCompileInputs.cache
+H:\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.CopyComplete
+H:\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.dll
+H:\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\ref\MB.Application.dll
+H:\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.pdb

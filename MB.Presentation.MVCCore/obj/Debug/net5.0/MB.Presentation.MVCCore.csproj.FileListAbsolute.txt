@@ -1,0 +1,58 @@
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\appsettings.Development.json
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\appsettings.json
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Presentation.MVCCore.exe
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Presentation.MVCCore.deps.json
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Presentation.MVCCore.runtimeconfig.json
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Presentation.MVCCore.runtimeconfig.dev.json
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Presentation.MVCCore.dll
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\ref\MB.Presentation.MVCCore.dll
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Presentation.MVCCore.pdb
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Presentation.MVCCore.Views.dll
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Presentation.MVCCore.Views.pdb
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.AssemblyInfoInputs.cache
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.AssemblyInfo.cs
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.csproj.CoreCompileInputs.cache
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.MvcApplicationPartsAssemblyInfo.cache
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.RazorAssemblyInfo.cache
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.RazorAssemblyInfo.cs
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\scopedcss\bundle\MB.Presentation.MVCCore.styles.css
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\staticwebassets\MB.Presentation.MVCCore.StaticWebAssets.Manifest.cache
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.TagHelpers.input.cache
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.TagHelpers.output.cache
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.RazorCoreGenerate.cache
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.RazorTargetAssemblyInfo.cache
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.RazorTargetAssemblyInfo.cs
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.Views.pdb
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.dll
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\ref\MB.Presentation.MVCCore.dll
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.pdb
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.genruntimeconfig.cache
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.csproj.CopyComplete
+E:\ASp.net core proj\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.csproj.AssemblyReference.cache
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.csproj.AssemblyReference.cache
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.AssemblyInfoInputs.cache
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.AssemblyInfo.cs
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.csproj.CoreCompileInputs.cache
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.MvcApplicationPartsAssemblyInfo.cache
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.RazorAssemblyInfo.cache
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.RazorAssemblyInfo.cs
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.dll
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.pdb
+H:\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.csproj.AssemblyReference.cache
+H:\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.GeneratedMSBuildEditorConfig.editorconfig
+H:\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.AssemblyInfoInputs.cache
+H:\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.AssemblyInfo.cs
+H:\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.csproj.CoreCompileInputs.cache
+H:\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.MvcApplicationPartsAssemblyInfo.cache
+H:\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.RazorAssemblyInfo.cache
+H:\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.RazorAssemblyInfo.cs
+H:\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.dll
+H:\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\ref\MB.Presentation.MVCCore.dll
+H:\MasterBlogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.pdb

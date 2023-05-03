@@ -1,0 +1,24 @@
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.deps.json
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.dll
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.pdb
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.AssemblyReference.cache
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.AssemblyInfoInputs.cache
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.AssemblyInfo.cs
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.CoreCompileInputs.cache
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.dll
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\refint\MB.Domain.dll
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.pdb
+D:\Csharp Learning\Asp.Net MVC train\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\ref\MB.Domain.dll
+H:\MasterBlogger\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.deps.json
+H:\MasterBlogger\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.dll
+H:\MasterBlogger\MasterBlogger\MB.Domain\bin\Debug\net5.0\ref\MB.Domain.dll
+H:\MasterBlogger\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.pdb
+H:\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.AssemblyReference.cache
+H:\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.AssemblyInfoInputs.cache
+H:\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.AssemblyInfo.cs
+H:\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.CoreCompileInputs.cache
+H:\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.dll
+H:\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\ref\MB.Domain.dll
+H:\MasterBlogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.pdb
